@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭国家一级摸鱼选手
+- 🔭.
   
 <img src="https://github-readme-stats.vercel.app/api?username=buluorifu&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 
